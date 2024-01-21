@@ -1,0 +1,1 @@
+Git status estado en el que esta Git ahora..
